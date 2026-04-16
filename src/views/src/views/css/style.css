@@ -1,3 +1,17 @@
 body {
   font-family: Arial;
 }
+
+/* Botão acessível */
+button {
+  background-color: #000;   /* fundo escuro */
+  color: #fff;              /* texto claro */
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Efeito hover */
+button:hover {
+  background-color: #444;
+}
