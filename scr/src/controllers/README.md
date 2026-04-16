@@ -32,4 +32,23 @@
 
 - Botões com cores contrastantes  
 - Textos simples e claros  
-- Navegação fácil  
+- Navegação fácil
+- ## 🚧 Progresso do Desenvolvimento
+
+### 🔁 Status das Rotas
+
+Quando o usuário clica no botão principal, o sistema executa uma função JavaScript que simula o processamento da ação e retorna uma resposta.
+
+---
+
+### 💬 Feedback ao Usuário
+
+O sistema exibe um alerta informando que a ação foi realizada com sucesso.
+
+Além disso, a cor da tela é alterada para reforçar o feedback visual.
+
+---
+
+### ⚠️ Dificuldades Técnicas
+
+Uma das dificuldades foi separar a lógica do JavaScript da estrutura HTML, garantindo que cada parte ficasse em seu respectivo diretório conforme o padrão MVC.
